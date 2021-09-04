@@ -1,0 +1,546 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#menu-main{
+	margin: 0;
+	padding: 0;
+}
+.EI{
+	background-image: linear-gradient(45deg, #8c8c8c, white);
+}
+
+a{
+	text-decoration: none;
+}
+#particular{
+	color:  #6600cc;
+	font-size: 15px;
+	margin-top: 8px;
+	font-family: verdana;
+}
+#particular:hover{
+	color: #e63900;
+}
+
+.navbar-nav a{
+	color:  #6600cc;
+	font-family: Cooper Black;
+	font-size: 10px;
+	margin-left: 15px;
+	margin-bottom: -100px;
+
+}
+.navbar-nav ul {
+	display: none;
+	font-family: verdana;
+	color: ;
+}
+
+.navbar-nav:hover ul{
+	display: ;
+}
+
+.navbar-nav a:hover{
+	color:  #6600cc;
+}
+.Voz{
+	margin-left: 15px;
+}
+.menu-2{
+	margin-left: 300px;
+	margin-top: -90px;
+	margin-bottom: 10px;
+}
+.bi-search{
+	text-align: right;
+	margin-left: 500px; 
+	margin-top: -50px;
+}
+.appsicons{
+	margin-left: 30px;
+	background-color: #5c0099;
+	padding: 20px;
+	margin-top: -70px;
+	width: 150px;
+
+}
+.mu{
+	font-size: 18px;
+	color: #e63900;
+
+}
+.bi-search{
+	height: 30px;
+	width: 30px;
+}
+.bi-person{
+	color: #e63900;
+}
+
+.bi-phone{
+	width: 100px;
+	height: 50px;
+}
+.bi-globe2{
+	width: 100px;
+	height: 50px;
+}
+.bi-handbag{
+	width: 100px;
+	height: 50px;
+}
+.bi-music-note-beamed{
+	width: 80px;
+	height: 50px;
+}
+
+/*slide*/
+
+
+
+
+/* Extra menu*/
+
+.extra-menu{
+	background-color: #ff6633;
+	width: 100%;
+	height: 100px;
+}
+
+.extra-menu1{
+	padding-top: 30px;
+}
+
+.e-nvoz{
+color: white;
+font-size: 25px;
+height: 100px;
+
+}
+.e-nvoz:hover{
+	color: #6600cc;
+}
+.bi-phone{
+	font-size: 50px;
+}
+
+
+.e-nnet{
+	color: white;
+	font-size: 25px;
+}
+.e-nnet:hover{
+	color: #6600cc;
+}
+
+
+
+
+.e-nmu{
+	color: white;
+	font-size: 25px;
+}
+.e-nmu:hover{
+	color: #6600cc;
+}
+
+.e-ncp{
+	color: white;
+	font-size: 25px;
+}
+.e-ncp:hover{
+	color: #6600cc;
+}
+.hr{
+	height: 100px;
+	margin-top: -50px;
+	margin-left: 80px;
+	opacity: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Cards{
+	display: table;
+}
+.Card1{
+	display: table-cell;
+	float: left;
+	margin-left: 350px;
+	margin-top: 40px;
+
+}
+.img{
+	width: 800px;
+}
+.Card2{
+	display: table-cell;
+	float: left;
+	width: 280px;
+	margin-top: 80px;
+	margin-left: 60px;
+}
+.h2card{
+	margin-left: 350px;
+	margin-top: 40px;
+	font-family: Arial Black;
+	color: #6600cc; 
+	font-size: 50px;
+}
+.h2card2{
+	font-family: verdana;
+	color: #6600cc;
+}
+.pcard{
+	color: #595959;
+}
+.bcard{
+	color: orange;
+	background: #6600cc;
+	margin-top: 40px;
+	width: 250px;
+	height: 50px;
+	font-family: verdana;
+
+}
+.bacard :hover{
+	background: #330066;
+}
+
+/*Informaçao star*/
+.informação{
+	display: table;
+}
+.informação1{
+	display: table-cell;
+	width: 450px;
+
+}
+.puk{
+	color: #6600cc;
+	font-family: verdana;
+
+}
+.ppuk{
+	color: #595959;
+}
+.informação1 :hover{
+	background: #d9d9d9;
+}
+
+
+
+
+
+
+
+
+/* Cards star*/
+#cards12 {
+	display: flex;
+	justify-content: center;
+	flex-wrap: nowrap;	
+	margin-top: 50px;
+}
+
+
+#card1{
+	background: white;
+	width: 700px;
+	height: 300px;
+	margin: 30px;
+	background-size: cover;
+}
+
+#card2{
+	background: white;
+	width: 600px;
+	height: 400px;
+	margin: 30px;
+}
+
+.card-image {
+	height: 300px;
+	margin-bottom: 20px;
+	background-size: cover;
+}
+.img-1{
+	background-image: url("img/Destaque-novo-site-1140x608px_Portal-Kids_Prancheta-1.jpg");
+
+}
+.img-2{
+	background-image: url("img/Destaque-novo-site-1140x608px_MINUTO-UNITEL-3G-VS-4G_Prancheta-1.jpg");
+}
+.cardh2{
+	padding: 20px;
+	color: #6600cc;
+	font-size: 45px;
+	font-family: verdana;
+}
+.cardp{
+	color: #595959;
+	font-size: 30px;
+}
+.buttoncard{
+	background-color: #6600cc;
+	padding: 15px 20px;
+}
+.parcard{
+	color: orange;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+#card1:hover{
+	border-radius: ;
+	cursor: pointer;
+	transform: scale(1.03);
+	transition: all 1s ease;
+}
+#card1:hover .buttoncard{
+	background-color: #ff531a;
+}
+#card1:hover .parcard{
+	color: white;
+}
+
+#card2:hover{
+	border-radius: ;
+	cursor: pointer;
+	transform: scale(1.03);
+	transition: all 1s ease;
+}
+#card2:hover .buttoncard{
+	background-color: #ff531a;
+}
+#card2:hover .parcard{
+	color: white;
+}
+/* Cards end*/
+
+/*APP UNITEL STAR*/
+
+.banner{
+	position: relative;
+	width: 100%;
+	margin-top: 250px;
+
+	
+}
+.row{
+	width: 100%;
+
+}
+.heading{
+	position: absolute;
+	top: 150px;
+	color: #ff531a;
+	text-align: center;
+	width: 40%;
+}
+.w-100{
+	width: 100%;
+	
+}
+.appp{
+	position: absolute;
+	top: 200px;
+	color: #ff531a;
+	text-align: center;
+	width: 40%;
+}
+
+.apph2{
+	text-align: center;
+	padding: 10px;
+	left: ;
+}
+.paragrafo{
+	margin-left: 200px;
+
+}
+
+
+
+
+
+/*Area dos equipamentos*/
+.carousel{
+	margin-top: 100px;
+}
+.equip{
+	margin-top: 70px;
+}
+.equipphac{
+	margin-top: 50px;
+}
+/*subarea😁 dos telemoveis*/
+.Equipamentos{
+	text-align: center;
+	color: #5c0099;
+	font-size: 50px;
+	margin-top: 20px;
+}
+#nav-telemoveis-tab{
+	background-color: #5c0099;
+}
+.TELEMOVEIS{
+	color: #ff531a;
+	font-size: 25px;
+}
+.ACESSORIOS{
+	color: #5c0099;
+}
+#nav-acessorios-tab:hover{
+	background-color: #4d4d4d;
+}
+#nav-acessorios-tab:hover .ACESSORIOS{
+	color: white;
+}
+.phones{
+	color: #ff531a;
+}
+
+.phone{
+	height: 400px;
+}
+.phone:hover{
+	cursor: pointer;
+	transform: scale(1.06);
+	transition: all 1s ease;
+}
+
+
+/*subarea😁 dos equipamentos*/
+.swatch{
+	height: 400px;
+}
+
+.swatch:hover{
+	cursor: pointer;
+	transform: scale(1.06);
+	transition: all 1s ease;
+}
+
+
+
+
+
+
+/*Footer */
+.container-f{
+	max-width: 1350px;
+	margin-left: 400px;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-image: linear-gradient( #730099, #26004d);
+	color: #9900cc;
+	padding: 70px ;
+}
+.footer-col{
+	width: 20%;
+	padding: 0 25px;
+}
+.footer-col h3{
+	font-size: 20px;
+	color: #ff4000;
+	text-transform: capitalize;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	text-transform: capitalize;
+	color: #ff4000;
+	text-decoration: none;
+	display: block;
+}
+.footer-col ul li a:hover{
+	color:  #cc3300;
+}
+.foo-img{
+	margin-top: 40px;
+	width: 200px;
+	height: 100px;
+}
+.icons{
+	display: flex;
+}
+
+.bi-facebook{
+	margin-left: 20px;
+}
+.bi-twitter{
+	margin-left: 20px;
+}
+.bi-youtube{
+	margin-left: 20px;
+}
+.sicons{
+	color: #ff4000;
+}
+.sicons:hover{
+	color: white;
+}
+.bi-person{
+	margin-left: ;
+}
+
+.ultimate{
+	color: #a31aff;
+	width: 1200px;
+	text-align: center;
+	margin-left: 300px;
+}
+.copyright{
+	color: #b32d00;
+	margin-left: 50%;
+	font-size: 12px; 
+}
+.privacidade{
+	color: #b32d00;
+	font-size: 12px;
+	margin-left: 25%;
+}
+.privacidade:hover{
+	color: #b32d00;
+}
+
+.termos{
+	color: #b32d00;
+	font-size: 12px;
+	margin-left: 15px;
+	
+}
+.termos:hover{
+	color: #b32d00;
+}
+.ptc{
+	margin-top: 20px;
+}
